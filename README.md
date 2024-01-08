@@ -6,6 +6,6 @@
   - Allow users to search for quotes by author name  <br>
   - Implement both front-end and back-end functionalities,including user interface design & data storage  <br>
   - Build the web app with a responsive user interface <br>
-  ❖ Website link: <br>
- https://neeharika-saha.github.io/infotrixs/
+❖ Website link: <br>
+   https://neeharika-saha.github.io/infotrixs/
 
